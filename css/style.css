@@ -1,0 +1,26 @@
+.fa-layer-group{
+    color: blue;
+}
+i{
+    font-size: 50px;
+}
+p{
+    color: gray;
+    font-weight: 600;
+}
+.fa-message ,.fa-intercom{
+    color: orange;
+}
+.fa-unlock ,.fa-file-code{
+    color: blueviolet;
+}
+.image{height:350px; 
+display: flex;
+justify-content: center;
+}
+img{
+    height: 100%;
+}
+.green{
+    color: aqua;
+}
